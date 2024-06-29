@@ -56,6 +56,7 @@ body {
   position: relative;
 }
 
+/*left side page color*/
 .sub_page .hero_area {
   height: auto;
   background: none;
@@ -198,8 +199,10 @@ a:focus {
   padding-top: 30px;
 }
 
+/*left side page color*/
 .login_btn-container a {
-  color: #1cbbb4;
+  color: #000000;
+  /*color: #1cbbb4;*/
   text-transform: uppercase;
 }
 
