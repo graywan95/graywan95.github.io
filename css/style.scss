@@ -1,6 +1,6 @@
 $white: #ffffff;
 $black: #252525;
-$primary1: #1cbbb4;
+$primary1: #000000;
 $primary2: #1a2e35;
 $btnColor: #ff4f5a;
 
@@ -224,7 +224,7 @@ a:focus {
   padding-top: 30px;
 
   a {
-    color: #000000;
+    color: $primary1;
     text-transform: uppercase;
   }
 }
